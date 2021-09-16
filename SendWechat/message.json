@@ -1,0 +1,26 @@
+{
+  "text":
+        {
+           "touser" : "name",
+           "msgtype" : "text",
+           "agentid" : 1000002,
+           "text" : {
+               "content" : "content"
+           },
+           "safe":0,
+           "enable_id_trans": 0,
+           "enable_duplicate_check": 0,
+           "duplicate_check_interval": 1800
+        },
+  "markdown":
+        {
+         "touser" : "name",
+         "msgtype": "markdown",
+         "agentid" : 1000002,
+         "markdown": {
+              "content": "content"
+         },
+         "enable_duplicate_check": 0,
+         "duplicate_check_interval": 1800
+          }
+}
